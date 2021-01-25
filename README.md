@@ -8,7 +8,5 @@
 I'm a {backend, frontend and mobile} developer and technical instructor at [@synergy].
 
  - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
- 
- ###
 
 https://media.discordapp.net/attachments/802356366030143488/803066503901347860/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f373930373032323539.gif
